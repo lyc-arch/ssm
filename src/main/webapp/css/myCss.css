@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2018-8-21, 22:31:53
+    Author     : liyuchen
+*/
+
+.guideFont
+{
+font-size:16px;
+font-weight:bolder;
+color:#009933;
+font-family:"新宋体";
+}
+.subfont
+{
+font-size:16px;
+font-weight:bolder;
+color:white;
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+.tablefead
+{
+background-color:#33CC66;
+font-size:16px;
+color:white;
+font-weight:bolder;
+}
