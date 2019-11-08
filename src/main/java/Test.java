@@ -4,7 +4,6 @@ public class Test {
 
 
         System.out.println("==================");
-        System.out.println("nidebaibao");
-        System.out.println("nidebaibaoddd");
+        System.out.println("nnnnnnnnnnnnnnnnnnnn");
     }
 }
