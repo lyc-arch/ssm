@@ -5,5 +5,6 @@ public class Test {
 
         System.out.println("==================");
         System.out.println("nnnnnnnnnnnnnnnnnnnn");
+        System.out.println("0000000000000000000000000");
     }
 }
